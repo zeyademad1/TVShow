@@ -12,3 +12,4 @@ An App build with
 - Use endless RecyclerView Scrolling
 - Ability to modifiy Ur Fav List
 - Ability to go to the api website for more details
+- BroadCast Reciever For Network Status
